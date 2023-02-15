@@ -11,4 +11,4 @@ pro_num=f_num*s_num
 print("the product of the numbers is:",pro_num)
 quot_num=f_num/s_num
 print("the quotient of the numbers is:",quot_num)
-s
+
