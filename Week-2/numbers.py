@@ -8,3 +8,4 @@ for number in numbers :
     print(avg_num)
     
     
+    
